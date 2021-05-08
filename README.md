@@ -2,6 +2,8 @@
 
 ## About This Project
 
+[View the Spootify Coding Challenge!](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
+
 There are two sections to this project.
 
 - The web app
