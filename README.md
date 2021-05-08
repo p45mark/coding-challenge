@@ -17,6 +17,12 @@ Normally the request to fetch the Bearer token would happen when the user logs i
 
 - In the project root, copy the `sample.env` file and rename it to `.env`.
   - Add your `SPOTIFY_CLIENT_ID` and `SPOTIFY_CLIENT_SECRET`
+- Install Dependencies
+
+```
+> yarn
+```
+
 - Start the node server in one terminal
 
 ```
