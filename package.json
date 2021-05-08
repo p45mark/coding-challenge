@@ -48,8 +48,8 @@
       "last 1 safari version"
     ]
   },
-  "description": "Kajabi Coding Challenge",
+  "description": "Coding Challenge",
   "main": "index.js",
-  "repository": "https://github.com/alexgurr/react-coding-challenges",
+  "repository": "https://github.com/p45mark/coding-challenge",
   "license": "MIT"
 }
